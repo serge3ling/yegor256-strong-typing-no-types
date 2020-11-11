@@ -1,0 +1,1 @@
+# yegor256-strong-typing-no-types
